@@ -394,7 +394,6 @@ module.exports = [
   "epost",
   "epson",
   "equipment",
-  "er",
   "ericsson",
   "erni",
   "es",
